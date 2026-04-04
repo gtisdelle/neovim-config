@@ -118,6 +118,9 @@ vim.opt.clipboard = 'unnamedplus'
 -- Enable break indent
 vim.opt.breakindent = true
 
+-- Set tabstop to 4 for golang
+vim.opt.tabstop = 4
+
 -- Save undo history
 vim.opt.undofile = true
 
